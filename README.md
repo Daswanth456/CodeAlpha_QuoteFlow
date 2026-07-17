@@ -3,6 +3,10 @@
 A sleek, modern, and interactive Random Quote Generator app built with Flutter. QuoteFlow goes beyond a simple local list by fetching real-time inspirational quotes directly from a live web API, letting users save beautiful quote cards directly to their photo gallery, and allowing instant quote-sharing with friends.
 
 Developed as part of the **CodeAlpha App Development Internship (Task 2: Random Quote Generator)**.
+---
+
+## 📺 Demo Video
+Watch the full video demonstration of QuoteFlow on [LinkedIn](https://www.linkedin.com/posts/daswanth2006_codealpha-codealphainternship-flutter-ugcPost-7483777902979772416-JSBT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGnXwcoB8bnZaK9ZJrRoY68R2W1tnCgQ9Wo).
 
 ---
 
